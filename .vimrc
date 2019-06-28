@@ -1,5 +1,5 @@
 set nu
-syntax on
+syntax enable
 set t_Co=256
 set tabstop=2
 set shiftwidth=2
